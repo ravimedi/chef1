@@ -1,6 +1,6 @@
 name             'httpd'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'Version IT'
+maintainer_email 'raghuk.vit@gmail.com'
 license          'All rights reserved'
 description      'Installs/Configures httpd'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
